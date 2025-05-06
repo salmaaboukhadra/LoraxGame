@@ -1,0 +1,5 @@
+string1*Lorax: 'I speak for the trees, for the trees have no tongues.'
+string2*Lorax: 'Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.'
+string3*Lorax: 'Which way does a tree fall? A tree falls the way it leans. Be careful which way you lean.'
+string4*Lorax: 'I am the Lorax. I speak for the trees!'
+string5*Lorax: 'It’s not about what it is, it’s about what it can become.'
