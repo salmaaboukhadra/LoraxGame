@@ -1,7 +1,7 @@
 # LoraxGame
 
 Overview
-This project is a single-screen 2D Java game developed for the CSC 130: Data Structures and Algorithm Analysis final project. The game demonstrates mastery of Java data structures, collision detection, animation, and user input handling. It is designed to meet all requirements in the official CSC 130 grading template.
+ The game demonstrates mastery of Java data structures, collision detection, animation, and user input handling. 
 
 Features
 4-Direction Movement:
